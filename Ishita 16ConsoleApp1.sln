@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishita 16ConsoleApp1", "Ishita 16ConsoleApp1\Ishita 16ConsoleApp1.csproj", "{43DB3F1D-6FD4-44F5-9226-402ABAF808C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DB3F1D-6FD4-44F5-9226-402ABAF808C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DB3F1D-6FD4-44F5-9226-402ABAF808C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DB3F1D-6FD4-44F5-9226-402ABAF808C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DB3F1D-6FD4-44F5-9226-402ABAF808C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF7D1DD-E0D5-485B-B098-F1F464D8D1F9}
+	EndGlobalSection
+EndGlobal
